@@ -66,11 +66,11 @@ header {
 }
 
 .footer {
-  position: absolute;
+  position: relative;
   bottom: 0px;
   text-align: center;
   width: 100%;
-  padding: 1rem 0;
+  padding: 10px;
   background-color: #236E4C;
   color: #ffffff;
 }
